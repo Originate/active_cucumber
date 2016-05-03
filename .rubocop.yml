@@ -33,3 +33,6 @@ Style/EmptyLinesAroundModuleBody:
 
 Style/MethodDefParentheses:
   EnforcedStyle: require_no_parentheses
+
+Style/NestedParenthesizedCalls:
+  Enabled: false
